@@ -10,12 +10,12 @@ SPDX-License-Identifier = "CC-BY-SA-4.0"
 
 # Template emails, in every language: free to copy and send without attribution.
 [[annotations]]
-path = "*/emails/**"
+path = "site/*/emails/**"
 SPDX-FileCopyrightText = "2026 SandRock and contributors"
 SPDX-License-Identifier = "CC0-1.0"
 
-# Site code (Jekyll layouts, includes, assets, configuration).
+# Site code (Jekyll layouts, includes, data, assets, configuration) and CI.
 [[annotations]]
-path = ["_layouts/**", "_includes/**", "_sass/**", "assets/**", "_config.yml", "Gemfile", "Gemfile.lock"]
+path = ["site/_layouts/**", "site/_includes/**", "site/_sass/**", "site/_data/**", "site/assets/**", "site/_config.yml", "site/Gemfile", "site/Gemfile.lock", ".github/**", ".gitignore"]
 SPDX-FileCopyrightText = "2026 SandRock and contributors"
 SPDX-License-Identifier = "MIT"

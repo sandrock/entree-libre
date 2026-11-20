@@ -18,7 +18,7 @@ Ce que le projet veut faire
    Expliquer ce que font ces services, ce qu'en disent les autorités et quelles alternatives existent, en citant à chaque fois des sources vérifiables.
 4. Aider à choisir.  
    Donner aux équipes techniques des critères pour comparer les solutions anti-robots, selon leur dépendance à un tiers.
-5. Défendre la juste mesure. 
+5. Défendre la juste mesure.  
    Protéger un site est légitime. Ce qui ne l'est pas, c'est d'imposer à chaque visite une collecte disproportionnée, confiée à un tiers, pour un service courant.
 6. Rester constructif.  
    Des messages courtois et factuels, qui proposent des solutions plutôt que des reproches.
