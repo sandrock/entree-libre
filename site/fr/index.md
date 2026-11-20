@@ -17,7 +17,10 @@ De nombreux sites web confient le contrôle de leur porte d'entrée à une autre
 Pour commencer
 ----------------------------------------------------------------
 
-- [La démarche](demarche/) : comment demander, avec quel ton, étape par étape.
-- [Intentions](intentions/) : ce que le projet veut faire, et les limites qu'il se donne.
+- [La démarche](demarche/)  
+  Comment demander, avec quel ton, étape par étape.
+- [Intentions](intentions/)  
+  Ce que le projet veut faire, et les limites qu'il se donne.
+{: .cards}
 
 Les modèles d'emails et les pages pour les équipes de support, les équipes techniques et les juristes arrivent bientôt.
