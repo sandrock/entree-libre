@@ -3,18 +3,20 @@
 :root {
   --text: #0b0c0c;
   --muted: #505a5f;
-  --bg: #ffffff;
+  --bg: #faf8f3;        /* warm paper, softer than pure white */
   --band: #1b5e44;        /* header: door green */
   --band-text: #ffffff;
   --link: #1d4f91;
   --link-visited: #4c2c92;
   --focus: #ffdd00;
   --line: #b1b4b6;
-  --soft: #f3f2f1;        /* footer and cards */
-  color-scheme: light;
+  --soft: #efebe2;        /* footer and cards */
+  color-scheme: only light;
 }
 
 * { box-sizing: border-box; }
+
+html { background: var(--bg); }
 
 body {
   margin: 0;
@@ -23,6 +25,9 @@ body {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", Arial, sans-serif;
   font-size: 1.1875rem;
   line-height: 1.55;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .wrap { max-width: 46rem; margin: 0 auto; padding: 0 1.25rem; }
@@ -43,7 +48,7 @@ a:focus-visible {
 .skip:focus { left: 1rem; top: 1rem; z-index: 1; padding: .5rem 1rem; }
 
 /* Header band */
-.site-header { background: var(--band); color: var(--band-text); border-bottom: 8px solid #12402e; }
+.site-header { background: var(--band); color: var(--band-text); }
 .site-header .wrap {
   display: flex;
   flex-wrap: wrap;
@@ -56,12 +61,13 @@ a:focus-visible {
 .site-header a, .site-header a:visited { color: var(--band-text); }
 .brand { display: inline-flex; align-items: center; gap: .6rem; font-weight: 700; font-size: 1.5rem; text-decoration: none; }
 .door { flex: none; }
+.site-header li { margin: 0; }
 .site-header ul { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; margin: 0; padding: 0; list-style: none; }
 .site-header nav a { font-weight: 600; }
 .site-header nav a[aria-current="page"] { text-decoration-thickness: 3px; }
 
 /* Content */
-main { padding-top: 2rem; padding-bottom: 3rem; }
+main.wrap { flex: 1 0 auto; width: 100%; padding-top: 2.5rem; padding-bottom: 3rem; }
 h1 { font-size: 2.25rem; line-height: 1.15; margin: 0 0 1.5rem; }
 h2 { font-size: 1.5rem; line-height: 1.25; margin: 2.75rem 0 1rem; }
 h3 { font-size: 1.25rem; margin: 2rem 0 .75rem; }
