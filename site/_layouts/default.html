@@ -38,6 +38,7 @@
   </main>
   <footer class="site-footer">
     <div class="wrap">
+      <p>{%- for item in t.footer_links %}{% unless forloop.first %} · {% endunless %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% endfor %}</p>
       <p>{{ t.privacy }}</p>
       <p>{{ t.ai }}</p>
       <p>{{ t.licence }} <a href="{{ site.source_url }}">{{ t.sources }}</a></p>
