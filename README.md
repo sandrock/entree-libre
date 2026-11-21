@@ -7,7 +7,7 @@ Pour utiliser un site web, on accepte souvent sans le savoir la présence d'autr
 
 Les bloquer demande du savoir-faire : un bloqueur de publicité ne suffit pas, il faut des outils plus fins et savoir les régler. Et quand c'est un tiers qui garde la porte (à l'entrée du site, devant la vitrine, à la caisse, au guichet du support), le bloquer revient à rester dehors.
 
-Ce projet ne s'occupe pas des coulisses des sites (hébergement, mesure d'audience, publicité…), seulement de ses contrôles d'accès.
+Ce projet ne s'occupe pas des coulisses des sites (hébergement, mesure d'audience, publicité…), seulement des contrôles d'accès.
 
 *Entrée libre* aide à demander aux sites web une autre porte d'entrée, sans service tiers : des modèles d'emails pour les internautes, et des explications pour les équipes qui les reçoivent.
 

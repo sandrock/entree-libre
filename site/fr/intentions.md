@@ -7,6 +7,9 @@ permalink: /fr/intentions/
 Intentions
 ================================
 
+{: .lead}
+Ce que le projet veut faire, et les limites qu'il se donne.
+
 Ce que le projet veut faire
 ----------------------------------------------------------------
 
@@ -17,7 +20,7 @@ Ce que le projet veut faire
 3. Informer, sources à l'appui.  
    Expliquer ce que font ces services, ce qu'en disent les autorités et quelles alternatives existent, en citant à chaque fois des sources vérifiables.
 4. Aider à choisir.  
-   Donner aux équipes techniques des critères pour comparer les solutions anti-robots, selon leur dépendance à un tiers.
+   Présenter aux équipes techniques des [solutions anti-robots](../alternatives/), classées selon leur dépendance à un tiers.{% comment %}TODO: once the A–F criteria grid is published, restore: "Donner aux équipes techniques des critères pour comparer les solutions anti-robots, selon leur dépendance à un tiers."{% endcomment %}
 5. Défendre la juste mesure.  
    Protéger un site est légitime. Ce qui ne l'est pas, c'est d'imposer à chaque visite une collecte disproportionnée, confiée à un tiers, pour un service courant. La juste mesure passe souvent par plusieurs portes.
 

@@ -7,6 +7,7 @@ permalink: /fr/demarche/
 La démarche
 ================================
 
+{: .lead}
 Demander poliment, expliquer clairement, proposer des solutions, et remercier quand la porte s'ouvre.
 
 
