@@ -19,7 +19,9 @@ Ce que le projet veut faire
 4. Aider à choisir.  
    Donner aux équipes techniques des critères pour comparer les solutions anti-robots, selon leur dépendance à un tiers.
 5. Défendre la juste mesure.  
-   Protéger un site est légitime. Ce qui ne l'est pas, c'est d'imposer à chaque visite une collecte disproportionnée, confiée à un tiers, pour un service courant.
+   Protéger un site est légitime. Ce qui ne l'est pas, c'est d'imposer à chaque visite une collecte disproportionnée, confiée à un tiers, pour un service courant. La juste mesure passe souvent par plusieurs portes.
+
+   > Une connexion avec double authentification n'a pas besoin de captcha ; une connexion classique peut en avoir un, mais alors avec aussi un lien de connexion par email.
 6. Rester constructif.  
    Des messages courtois et factuels, qui proposent des solutions plutôt que des reproches.
 7. Agir de façon non violente et légale.  
@@ -32,7 +34,9 @@ Les limites que le projet se donne
 ----------------------------------------------------------------
 
 1. Respecter le besoin de sécurité.  
-   Les sites ont de bonnes raisons de se protéger des robots. Le projet demande une protection qui n'impose pas de tiers, ou une autre porte, jamais la suppression des protections.
+   Les sites ont de bonnes raisons de se protéger des robots. Le projet demande des protections proportionnées, respectueuses et accessibles : de préférence sans tiers ; à défaut, avec un tiers qui ne réutilise pas les données et ne suit pas les personnes d'un site à l'autre. Jamais la suppression des protections.
+
+   > Un forum, une boutique en ligne ou le service des impôts n'ont pas les mêmes enjeux de protection.
 2. Décrire des pratiques, pas désigner des coupables.  
    Quand le projet mentionne un site ou un fournisseur, c'est de façon factuelle, datée et vérifiable, avec un droit de réponse ; et il met d'abord en avant ceux qui ouvrent la porte.
 3. Demander à entrer, jamais forcer.  

@@ -19,6 +19,8 @@ Pour commencer
 
 - [La démarche](demarche/)  
   Comment demander, avec quel ton, étape par étape.
+- [Les alternatives](alternatives/)  
+  Protéger un site sans confier ses visiteurs à une autre entreprise : les solutions comparées.
 - [Intentions](intentions/)  
   Ce que le projet veut faire, et les limites qu'il se donne.
 {: .cards}

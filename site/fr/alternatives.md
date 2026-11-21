@@ -133,7 +133,7 @@ La version 3 attribue un score à chaque visite, sans interaction. Depuis le 2 a
 Adapter la protection à chaque activité
 ---------------------------------------------------------
 
-Un site n'a pas besoin du même contrôle partout. Quelques pistes, à adapter au risque réel de chaque page :
+Un forum, une boutique en ligne ou le service des impôts n'ont pas les mêmes enjeux, et un même site n'a pas besoin du même contrôle partout. Proposer plusieurs portes permet à chacun·e de passer : qui a activé la double authentification n'a pas à résoudre de captcha, et un captcha peut toujours être doublé d'un lien de connexion par email. Quelques pistes, à adapter au risque réel de chaque page :
 
 | Activité | Pistes sans tiers |
 |---|---|
