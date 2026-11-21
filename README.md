@@ -9,7 +9,7 @@ Les bloquer demande du savoir-faire : un bloqueur de publicité ne suffit pas, i
 
 Ce projet ne s'occupe pas des coulisses des sites (hébergement, mesure d'audience, publicité…), seulement de ses contrôles d'accès.
 
-*Entrée libre* aide à demander aux sites web une autre porte d'entrée, sans service tiers : des modèles d'emails pour les usagers, et des explications pour les équipes qui les reçoivent.
+*Entrée libre* aide à demander aux sites web une autre porte d'entrée, sans service tiers : des modèles d'emails pour les internautes, et des explications pour les équipes qui les reçoivent.
 
 
 Pourquoi
@@ -27,7 +27,7 @@ Ce que propose le projet
 
 Un site qui sert de point d'entrée dans les échanges avec les éditeurs de sites :
 
-- pour les usagers : la démarche et des emails types, selon la situation ;
+- pour les usager·es : la démarche et des emails types, selon la situation ;
 - pour les équipes de support : une explication simple, à transmettre à la bonne personne ;
 - pour les équipes techniques : des alternatives et une grille pour les comparer ;
 - pour les juristes et DPO : le cadre légal et les décisions des autorités.

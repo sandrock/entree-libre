@@ -44,7 +44,7 @@ Les limites que le projet se donne
 4. Parler de l'accès des personnes.  
    Le projet ne prend pas position contre l'IA ou l'automatisation en général.
 5. Informer, sans remplacer un avis juridique.  
-   Les références légales sont là pour éclairer et orienter ; elles ne remplacent pas l'avis d'un ou d'une juriste.
+   Les références légales sont là pour éclairer et orienter ; elles ne remplacent pas l'avis d'un·e juriste.
 6. Respecter les équipes de support.  
    Elles font leur travail : le projet ne cite jamais leurs noms et ne vise pas les personnes.
 7. Rester indépendant.  

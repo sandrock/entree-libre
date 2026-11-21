@@ -2,14 +2,14 @@
 title: Les alternatives
 lang: fr
 permalink: /fr/alternatives/
-description: Protéger un site contre les robots sans confier ses visiteurs à une autre entreprise, solutions comparées.
+description: Protéger un site contre les robots sans confier les personnes qui le visitent à une autre entreprise, solutions comparées.
 ---
 
 Les alternatives
 ===================================
 
 {: .lead}
-Protéger un site contre les robots est légitime. La question est de savoir *qui* examine les visiteurs : le site lui-même, ou une autre entreprise.
+Protéger un site contre les robots est légitime. La question est de savoir *qui* examine les internautes : le site lui-même, ou une autre entreprise.
 
 Cette page classe les solutions selon leur dépendance à un tiers, du « fait maison » aux grands services. Elle s'adresse à tout le monde ; les équipes techniques y trouveront de quoi comparer. Les informations viennent de la documentation des outils eux-mêmes, et ont été vérifiées le 21 novembre 2026.
 
@@ -37,11 +37,11 @@ En un coup d'œil
 Sans tiers : le site se protège lui-même
 ---------------------------------------------------------
 
-Le site garde la main : aucune autre entreprise n'examine ses visiteurs.
+Le site garde la main : aucune autre entreprise n'examine les personnes qui le visitent.
 
 ### Les techniques côté serveur
 
-Elles ne demandent rien au navigateur des visiteurs :
+Elles ne demandent rien au navigateur des visiteur·ses :
 
 - limiter le nombre de tentatives, par adresse IP ou par compte (*rate limiting*, *throttling*) ;
 - ajouter un champ piège, caché aux humains, que seuls les robots remplissent (*honeypot*) ;
@@ -67,7 +67,7 @@ La personne saisit son adresse email et reçoit un lien à usage unique qui la c
 
 ### Les outils à héberger soi-même
 
-Ces outils font faire un petit calcul au navigateur du visiteur (une « preuve de travail », *proof of work*) : imperceptible pour une personne, coûteux pour un robot qui multiplie les visites. Ils demandent JavaScript, ce qui exclut les personnes qui naviguent sans.
+Ces outils font faire un petit calcul au navigateur de la personne (une « preuve de travail », *proof of work*) : imperceptible pour une personne, coûteux pour un robot qui multiplie les visites. Ils demandent JavaScript, ce qui exclut les personnes qui naviguent sans.
 
 #### Anubis
 
@@ -115,7 +115,7 @@ ALTCHA propose aussi un service hébergé en Europe, à côté de sa version lib
 Les grands tiers
 ---------------------------------------------------------
 
-Le navigateur du visiteur se connecte à une grande entreprise, présente sur une grande partie du web, qui examine son navigateur et parfois son comportement.
+Le navigateur de l'internaute se connecte à une grande entreprise, présente sur une grande partie du web, qui examine son navigateur et parfois son comportement.
 
 ### Cloudflare Turnstile
 
@@ -150,7 +150,7 @@ Un forum, une boutique en ligne ou le service des impôts n'ont pas les mêmes e
 Ce que nous en pensons
 ---------------------------------------------------------
 
-Protéger un site est légitime, et cette page le montre : les moyens existent, souvent simples, sans faire examiner chaque visiteur par une autre entreprise.
+Protéger un site est légitime, et cette page le montre : les moyens existent, souvent simples, sans faire examiner chaque visite par une autre entreprise.
 
 Nous pensons que :
 
@@ -161,7 +161,7 @@ Nous pensons que :
 
 Se dire conforme au RGPD ne suffit pas. Le diable est dans les détails : ce que le service fait réellement des données, ce qu'il en fait sans le dire, et ce qui peut fuir. Un outil hébergé par le site lui-même réduit ces risques à la source : les données sont minimisées.
 
-Aucune de ces solutions n'est magique. Mais entre « aucune protection » et « confier ses visiteurs à une grande entreprise », il y a beaucoup de place. Nous espérons que cette page vous aura fait découvrir des solutions plus acceptables, et que vous pourrez les mettre en place !
+Aucune de ces solutions n'est magique. Mais entre « aucune protection » et « confier son public à une grande entreprise », il y a beaucoup de place. Nous espérons que cette page vous aura fait découvrir des solutions plus acceptables, et que vous pourrez les mettre en place !
 
 
 Proposer un outil, signaler une erreur

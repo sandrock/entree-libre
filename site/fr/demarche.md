@@ -26,7 +26,7 @@ Le projet s'inscrit dans la tradition de l'action non violente. Gene Sharp (*The
 1. Persuader.  
    Écrire aux sites, expliquer le problème, donner des sources. C'est le cœur du projet : les modèles d'emails et les pages pour chaque destinataire.
 2. Ne pas coopérer.  
-   Refuser un contrôle qu'on juge excessif, et, si rien ne change, choisir un autre commerçant ou résilier un abonnement en disant pourquoi. C'est un choix de consommateur ou de consommatrice, rien de plus.
+   Refuser un contrôle qu'on juge excessif, et, si rien ne change, choisir un autre commerçant ou résilier un abonnement en disant pourquoi. C'est un choix de consommation, rien de plus.
 3. Construire l'alternative.  
    L'idée vient du « programme constructif » de Gandhi : ne pas seulement s'opposer, mais montrer comment faire autrement. Ici, c'est le guide pour les équipes techniques et la présentation de [solutions qui n'imposent pas de tiers](../alternatives/).
 
@@ -49,7 +49,7 @@ La communication non violente (CNV), décrite par Marshall Rosenberg (*Les mots 
 
 Dans un email au support, le sentiment peut rester discret. L'observation précise (quelle page, quel message d'erreur) et la demande concrète (que faire, et pour qui) sont ce qui fait avancer les choses.
 
-Les exemples et les modèles sont écrits pour toutes et tous (« un·e humain·e ») : à chacun·e d'adapter le texte à sa situation, et à ses mots.
+Les exemples et les modèles sont écrits de façon inclusive (« un·e humain·e ») : à chacun·e d'adapter le texte à sa situation, et à ses mots.
 
 
 Pas à pas
@@ -62,7 +62,7 @@ Pas à pas
 3. Faire remonter.  
    Si la réponse est « changez de navigateur » ou « postez une suggestion », recadrer poliment et redemander la transmission.
 4. S'adresser à la bonne personne.  
-   Écrire à l'équipe technique ou au délégué ou à la déléguée à la protection des données (DPO), avec les références adaptées.
+   Écrire à l'équipe technique ou à la personne déléguée à la protection des données (DPO), avec les références adaptées.
 5. Choisir.  
    Si rien ne bouge, aller voir ailleurs, et le dire.
 6. Remercier.  
