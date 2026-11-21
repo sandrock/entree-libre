@@ -4,9 +4,12 @@ fr:
   skip: Aller au contenu
   nav_label: Navigation principale
   home: /fr/
+  tagline: "Demander aux sites web une porte d’entrée sans service tiers (CAPTCHA) qui examine les visiteurs."
   nav:
     - title: La démarche
       url: /fr/demarche/
+    - title: Les alternatives
+      url: /fr/alternatives/
     - title: Intentions
       url: /fr/intentions/
   licence: "Contenus sous licence CC BY-SA 4.0, emails types sous CC0, code sous licence MIT."

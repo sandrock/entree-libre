@@ -28,7 +28,7 @@ Le projet s'inscrit dans la tradition de l'action non violente. Gene Sharp (*The
 2. Ne pas coopérer.  
    Refuser un contrôle qu'on juge excessif, et, si rien ne change, choisir un autre commerçant ou résilier un abonnement en disant pourquoi. C'est un choix de consommateur ou de consommatrice, rien de plus.
 3. Construire l'alternative.  
-   L'idée vient du « programme constructif » de Gandhi : ne pas seulement s'opposer, mais montrer comment faire autrement. Ici, c'est le guide pour les équipes techniques et la présentation de solutions qui n'imposent pas de tiers.
+   L'idée vient du « programme constructif » de Gandhi : ne pas seulement s'opposer, mais montrer comment faire autrement. Ici, c'est le guide pour les équipes techniques et la présentation de [solutions qui n'imposent pas de tiers](../alternatives/).
 
 Ce que le projet exclut : toute action illégale, le harcèlement, les envois massifs, les propos diffamatoires, et toute mise en cause des personnes qui répondent au support.
 
