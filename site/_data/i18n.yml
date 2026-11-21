@@ -4,7 +4,7 @@ fr:
   skip: Aller au contenu
   nav_label: Navigation principale
   home: /fr/
-  tagline: "Demander aux sites web une porte d’entrée sans service tiers (CAPTCHA) qui examine les visiteurs."
+  tagline: "Demander aux sites web des contrôles anti-robots (captchas…) proportionnés, respectueux et accessibles."
   nav:
     - title: La démarche
       url: /fr/demarche/
