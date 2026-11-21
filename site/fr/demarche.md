@@ -45,9 +45,11 @@ La communication non violente (CNV), décrite par Marshall Rosenberg (*Les mots 
 3. Besoin : ce qui compte pour soi.  
    « Je ne souhaite pas que mes données de navigation soient examinées par une autre entreprise. »
 4. Demande : une action précise et réalisable.  
-   « Pouvez-vous me proposer un autre moyen de créer mon compte, et transmettre ce message à votre équipe technique ? »
+   « Je suis bien un·e humain·e, mais sans votre service de vérification, votre site me traite comme un robot. Existe-t-il un autre moyen de passer le contrôle anti-robots ? Sinon, pouvez-vous transmettre ce message à votre équipe technique ? »
 
 Dans un email au support, le sentiment peut rester discret. L'observation précise (quelle page, quel message d'erreur) et la demande concrète (que faire, et pour qui) sont ce qui fait avancer les choses.
+
+Les exemples et les modèles sont écrits pour toutes et tous (« un·e humain·e ») : à chacun·e d'adapter le texte à sa situation, et à ses mots.
 
 
 Pas à pas
@@ -56,7 +58,7 @@ Pas à pas
 1. Voir.  
    Repérer quel service contrôle l'accès, et à quel moment.
 2. Demander.  
-   Écrire au support : décrire le blocage, dire que le refus est volontaire et non une panne, demander un autre moyen d'accès et la transmission à l'équipe technique.
+   Écrire au support : décrire le blocage, dire que le refus est volontaire et non une panne, demander s'il existe un autre moyen de passer le contrôle anti-robots et, sinon, qu'il soit créé, et que le message soit transmis à l'équipe technique. Ne pas demander au support de passer le contrôle à sa place : il serait examiné à son tour, sans que rien ne change.
 3. Faire remonter.  
    Si la réponse est « changez de navigateur » ou « postez une suggestion », recadrer poliment et redemander la transmission.
 4. S'adresser à la bonne personne.  
