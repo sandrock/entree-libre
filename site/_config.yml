@@ -20,3 +20,4 @@ exclude:
   - Gemfile.lock
   - vendor
   - .bundle
+  - orig-email/README.md
