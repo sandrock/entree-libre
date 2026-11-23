@@ -81,6 +81,9 @@ li + li { margin-top: .6rem; }
 blockquote { margin: 0 0 1.25rem; padding: .1rem 0 .1rem 1rem; border-left: 3px solid var(--band); font-style: italic; }
 blockquote p:last-child { margin-bottom: 0; }
 
+/* Messages to copy: wrap long lines instead of scrolling. */
+pre { margin: 0 0 1.5rem; padding: .75rem 1rem; background: var(--soft); border-left: 3px solid var(--line); white-space: pre-wrap; overflow-wrap: anywhere; font-size: 1rem; }
+
 .lead { font-size: 1.375rem; }
 
 /* Cards: a list marked {: .cards} in Markdown */

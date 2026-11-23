@@ -59,7 +59,7 @@ Pas à pas
 1. Voir.  
    Repérer quel service contrôle l'accès, et à quel moment.
 2. Demander.  
-   Écrire au support : décrire le blocage, dire que le refus est volontaire et non une panne, demander s'il existe un autre moyen de passer le contrôle anti-robots et, sinon, qu'il soit créé, et que le message soit transmis à l'équipe technique. Ne pas demander au support de passer le contrôle à sa place : il serait examiné à son tour, sans que rien ne change.
+   Écrire au support : décrire le blocage, dire que le refus est volontaire et non une panne, demander s'il existe un autre moyen de passer le contrôle anti-robots et, sinon, qu'il soit créé, et que le message soit transmis à l'équipe technique. Une [page pour le support](../pour-le-support/) l'aide à faire le tri. Ne pas demander au support de passer le contrôle à sa place : il serait examiné à son tour, sans que rien ne change.
 3. Faire remonter.  
    Si la réponse est « changez de navigateur » ou « postez une suggestion », recadrer poliment et redemander la transmission.
 4. S'adresser à la bonne personne.  

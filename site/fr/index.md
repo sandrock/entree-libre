@@ -21,8 +21,10 @@ Pour commencer
   Comment demander, avec quel ton, étape par étape.
 - [Les alternatives](alternatives/)  
   Protéger un site sans faire examiner les internautes par une autre entreprise : les solutions comparées.
+- [Pour le support](pour-le-support/)  
+  Vous avez reçu le message d'une personne bloquée par une vérification : quoi faire, et à qui le transmettre.
 - [Intentions](intentions/)  
   Ce que le projet veut faire, et les limites qu'il se donne.
 {: .cards}
 
-Les modèles d'emails et les pages pour les équipes de support, les équipes techniques et les juristes arrivent bientôt.
+Les modèles d'emails et les pages pour les équipes techniques et les juristes arrivent bientôt.
